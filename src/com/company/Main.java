@@ -18,6 +18,6 @@ public class Main {
        Set s = new TreeSet();
        Collections.addAll(s, name);
         System.out.println(s);
-
+        System.out.println(s);
     }
 }
